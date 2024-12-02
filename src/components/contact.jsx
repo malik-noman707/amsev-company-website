@@ -11,7 +11,7 @@ const initialState = {
 };
 
 export const Contact = (props) => {
-  const [{ name, email, message }, setState] = useState(initialState);
+  const [ setState] = useState(initialState);
 
   const handleChange = (e) => {
     const { name, value } = e.target;
