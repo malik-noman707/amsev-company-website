@@ -37,6 +37,7 @@ export const Features = (props) => {
         <div className="row justify-content-center">
           {/* <div className="col-md-10 section-title">
             <h2>Features</h2>
+            
           </div> */}
           <div className="features-heading">
             <h2>FEATURES</h2>
