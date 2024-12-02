@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": "AMSEV Technologies is a dynamic and results-driven company specializing in outbound and inbound projects, primarily focused on generating high-quality leads for the insurance industry. We provide tailored solutions that help businesses expand their customer base and achieve their sales targets. In addition to our lead generation expertise, we offer comprehensive Managed IT Services to streamline your IT infrastructure and ensure seamless operations. Our team of skilled professionals leverages advanced technologies to deliver exceptional results with a customer-centric approach. At AMSEV Technologies, we are committed to providing the highest level of service, helping our clients grow and succeed in today’s competitive marketplace.",
+    "Why": [
+      "Expertise in Lead Generation",
+      "Comprehensive IT Services",
+      "Customer-Centric Approach",
+      "Advanced Technology"
+    ],
+    "Why2": [
+      "Proven Track Record",
+      "Cost-Effective Solutions",
+      "Skilled and Experienced Team",
+      "24/7 Support"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "img": "img/lead_gen.png", 
+      "name": "Lead Generation",
+      "text": "High-quality outbound and inbound lead generation strategies to fuel your business growth."
+    },
+    {
+      "img": "img/mits.png", 
+      "name": "Managed IT Services",
+      "text": "Full-service IT management to ensure your infrastructure is optimized, secure, and running smoothly."
+    },
+    {
+      "img": "img/247_support.png", 
+      "name": "24/7 Customer Support",
+      "text": "A reliable, customer-focused support team available at any time to assist with inquiries and troubleshoot issues."
+    },
+    {
+      "img": "img/taxi_dispatch.png", 
+      "name": "Taxi Dispatch Services",
+      "text": "Efficient and reliable taxi dispatch solutions to streamline bookings, route management, and improve customer experiences."
+    },
+    {
+      "img": "img/software_development.png", 
+      "name": "Software Development",
+      "text": "Customized software solutions that meet your specific business needs, enhancing your operational efficiency."
+    },
+    {
+      "img": "img/mobile_app.png", 
+      "name": "App Development",
+      "text": "Mobile app development services to create scalable, user-friendly, and innovative apps for your business."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"AMSEV Technologies consistently delivers high-quality leads and outstanding service, significantly enhancing our business performance and success.\"",
+      "name": "Jeremy Small"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Partnering with AMSEV Technologies has been a game-changer. Their reliable leads and great service have boosted our sales significantly.\"",
+      "name": "Dallin Bird"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"With AMSEV Technologies, we receive high-converting leads and superb customer service, which have been critical to our sustained business success and growth.\"",
+      "name": "Kirstyn Burns"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Thanks to AMSEV Technologies, we've seen a notable improvement in our sales through their high-quality leads and superb service.\"",
+      "name": "Kevin De Vincenzi"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"With AMSEV Technologies, our business has thrived thanks to their high-converting leads and exceptional service.\"",
+      "name": "Dave Maman"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"The superior leads and excellent customer care from AMSEV Technologies have been pivotal in our sustained business growth.\"",
+      "name": "Corey Spelman"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.png",
+      "name": "Malik Usman",
+      "job": "CEO"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Malik Noman",
+      "job": "COO"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Abdul Rehman",
+      "job": "Director Operations"
+    },
+    {
+      "img": "img/team/01.png",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Office#03 1st Floor, JS Plaza, Civic Center, Sector 3 Airport Employees CHS, Rawalpindi, Punjab 44000",
+    "phone": "+1 123 456 1234",
+    "email": "info@amsev.com",
+    "facebook": "https://www.facebook.com/AMSEVTECH",
+    "twitter": "https://www.instagram.com/amsev_tech?igsh=MW0yc3h3NzNwaWdwZw==",
+    "youtube": "https://www.linkedin.com/company/amsev-technologies-pvt-ltd/"
+  },
+  "Features": [
+    {
+      "img": "img/lead_gen.png", 
+      "title": "Tailored Lead Gen Solutions",
+      "text": "Customized strategies to generate high-quality outbound and inbound leads that align with your business needs."
+    },
+    {
+      "img": "img/mits.png", 
+      "title": "Managed IT Services",
+      "text": "End-to-end IT management to optimize your infrastructure, enhance productivity, and ensure seamless operations."
+    },
+    {
+      "img": "img/customer_support.png", 
+      "title": "Extensive Customer Support",
+      "text": "Our dedicated support team is available 24/7 to assist with any inquiries, ensuring a smooth experience and quick resolution of issues."
+    },
+    {
+      "img": "img/taxi_dispatch.png", 
+      "title": "Taxi Dispatch Service",
+      "text": "We offer efficient and reliable taxi dispatch services, providing businesses with advanced solutions for managing bookings, routes, and customer interactions seamlessly."
+    }
+  ]
+}
