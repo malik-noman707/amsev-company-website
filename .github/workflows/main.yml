@@ -29,4 +29,4 @@ jobs:
           server: amsev.com
           username: ftp_amsev@0621
           password: f@m7AzS#0623#
-          local-dir: ./build/ 
+          local-dir: ./build/
