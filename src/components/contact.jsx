@@ -171,7 +171,6 @@ export const Contact = (props) => {
             &copy; 2024 All rights reserved by AMSEV Technologies | Powered by {" "}
             <a href="https://therevolutiontechnologies.tech/" rel="noopener noreferrer">
                 The Revolution Technologies
-                
             </a>
           </p>
         </div>
