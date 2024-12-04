@@ -4,25 +4,15 @@ export const Header = (props) => {
   return (
     <header id="header">
       <div className="intro">
-        <div className="overlay">
-          <div className="container">
-          {/* <img src="../img/intro-bg.gif" alt="Intro Background" /> */}
-{/* 
-            <div className="row">
-              <div className="col-md-8 col-md-offset-2 intro-text">
-                <h1>
-                  {props.data ? props.data.title : "Loading"}
-                  <span></span>
-                </h1>
-                <p>{props.data ? props.data.paragraph : "Loading"}</p>
-                <a
-                  href="#features"
-                  className="btn btn-custom btn-lg page-scroll"
-                >
-                  Learn More
-                </a>{" "}
-              </div>
-            </div> */}
+        <div className="container-fluid">
+          <div className="row">
+            <div className="col-xs-12 col-sm-12 col-md-12">
+              <img 
+                src="../img/intro-bg.gif" 
+                alt="Background" 
+                className="img-fluid responsive-image"
+              />
+            </div>
           </div>
         </div>
       </div>
