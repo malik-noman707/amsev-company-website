@@ -204,6 +204,57 @@ a:focus,
   outline: none;
   outline-offset: none;
 }
+@media (max-width: 991px) {
+  #menu .navbar-header {
+    float: none;
+  }
+  
+  #menu .navbar-toggle {
+    display: block;
+    margin-right: 0;
+  }
+  
+  #menu .navbar-collapse {
+    border-top: 1px solid transparent;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background-color: #fff;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+  }
+  
+  #menu .navbar-collapse.show {
+    max-height: 500px;
+  }
+  
+  #menu .navbar-nav {
+    float: none !important;
+    margin: 7.5px -15px;
+  }
+  
+  #menu .navbar-nav > li {
+    float: none;
+  }
+  
+  #menu .navbar-nav > li > a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  #menu .navbar-brand {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 767px) {
+  #menu .navbar-brand {
+    font-size: 20px;
+  }
+}
 /* Header Section */
 .intro {
   width: 100%;
@@ -228,7 +279,7 @@ a:focus,
 
 @media screen and (min-width: 768px) and (max-width: 991px) {
   .responsive-image {
-    height: 50vh;
+    height: 98vh;
   }
 }
 
