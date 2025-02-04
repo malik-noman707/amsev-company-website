@@ -8,7 +8,7 @@ export const Header = (props) => {
           <div className="row">
             <div className="col-xs-12 col-sm-12 col-md-12">
               <img 
-                src="../img/intro-bg.gif" 
+                src="../img/intro-bg.png" 
                 alt="Background" 
                 className="img-fluid responsive-image"
               />
